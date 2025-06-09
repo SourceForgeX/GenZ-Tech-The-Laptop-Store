@@ -59,6 +59,6 @@ The **Laptop Store** provides an efficient platform for managing laptop inventor
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-   ```bash
- https://github.com/SourceForgeX/GenZ-Tech-The-Laptop-Store.git
+    https://github.com/SourceForgeX/GenZ-Tech-The-Laptop-Store.git
+
    
